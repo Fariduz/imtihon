@@ -1,0 +1,138 @@
+/* core style */
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* Main Header styles */
+.main-header {
+  align-items: center;
+  justify-content: space-between;
+  word-spacing: 150px;
+}
+
+.main-border-brand {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.main-navigation {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.main-navigation-item {
+  display: inline-block;
+  padding: 5px;
+}
+
+.main-navigation-item {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 400px;
+}
+
+/* Main section */
+.main-section {
+  padding: 100px 30px;
+  margin-bottom: 100px;
+}
+
+.main-section div {
+  width: 50%;
+  float: left;
+}
+
+.my-section_image {
+  text-align: right;
+  width: 100px;
+  height: 100px;
+}
+
+.main-section_info {
+  font-size: 20px;
+  font-weight: 400px;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  margin-top: 100px;
+}
+
+.main-section_button {
+  width: 165px;
+  height: 50px;
+  flex-shrink: 0;
+  background-color: burlywood;
+}
+
+.main-fm {
+  font-size: 50px;
+}
+
+/* Main section 2*/
+.espasial {
+  color: #000;
+  font-family: Rancho;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+
+.yogurt-section {
+  padding: 100px 30px;
+  margin-bottom: 100px;
+}
+
+.yogurt-section div {
+  width: 50%;
+  float: left;
+}
+
+.yogurt-img {
+  text-align: right;
+  width: 500px;
+}
+
+/* ? Keyingi section yogurt*/
+.yogurt-section2 {
+  width: auto;
+  padding: 100px 30px;
+  margin-bottom: 100px;
+  margin-top: 200px;
+}
+
+.yogurt-section2 div {
+  width: 50%;
+  float: left;
+}
+
+.yogurt-img2 {
+  text-align: left;
+}
+
+/* ? Asosiy menu emas keyingi menu*/
+.relis {
+  text-align: center;
+}
+
+.rasm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: absolute;
+}
+
+.rasm-text {
+  position: absolute;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  color: aliceblue;
+}/*# sourceMappingURL=imtihon.css.map */
